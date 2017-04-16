@@ -1,0 +1,19 @@
+{
+  "name": "js-algos-and-data-structures",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joshbedo/js-algos-and-data-structures.git"
+  },
+  "author": "Josh Bedo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joshbedo/js-algos-and-data-structures/issues"
+  },
+  "homepage": "https://github.com/joshbedo/js-algos-and-data-structures#readme"
+}
