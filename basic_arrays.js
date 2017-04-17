@@ -1,3 +1,4 @@
+
 /**
  * Fibonacci number
  * ex: 10 = 55
@@ -43,3 +44,13 @@ let flattenArray = arr => {
 };
 
 console.log(`Flattened Array: ${flattenArray(nestedArray)}`)
+
+/**
+ * Sorting numbers
+ */
+let numericArray = [1,10,3,33,2,4,7,15,9];
+let sortNumberCallback = (a,b) => {
+  if (a < b) return -1;
+  if (a > b) return 1;
+  return 0;
+}
